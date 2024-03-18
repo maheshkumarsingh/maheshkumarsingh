@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Mahesh Singh
-###A passionate backend developer from India
+### A passionate backend developer from India
 
 - 🔭 I’m currently working on Cognizant Techology Solutions(https://www.cognizant.com/in/en)
 - 🌱 I’m currently learning Machine Coding
