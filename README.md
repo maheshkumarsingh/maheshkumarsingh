@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshkumarsingh" alt="maheshkumarsingh" /></a> </p>
 
-- 🔭 I’m currently working on [Cognizant Technology Solutions](https://www.cognizant.com/in/en)
+- 🔭 I’m currently working on Desing Parking Lot.
 
 - 🌱 I’m currently learning **Machine Coding, Asp.NET Core8, Angular17, Microservices.**
 
