@@ -21,12 +21,11 @@
 
 - 📄 Know about my experiences [https://github.com/maheshkumarsingh/maheshkumarsingh/blob/main/Mahesh_Kumar_Singh_Resume.pdf.pdf](https://github.com/maheshkumarsingh/maheshkumarsingh/blob/main/Mahesh_Kumar_Singh_Resume.pdf.pdf)
 
-- ⚡ Fun fact **I think I am a bit of human being.**
+- ⚡ Fun fact **I think I am a bit of human being😎.**
 
-### Blogs posts
+<!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/maheshkumarsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="maheshkumarsingh" height="30" width="40" /></a>
