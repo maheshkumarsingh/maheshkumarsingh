@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh Singh</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshkumarsingh&label=Profile%20views&color=0e75b6&style=flat" alt="maheshkumarsingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshkumarsingh&label=Profile%20views&color=0e75b6&style=flat](https://github.com/maheshkumarsingh/maheshkumarsingh/blob/main/developer.gif)" alt="maheshkumarsingh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshkumarsingh" alt="maheshkumarsingh" /></a> </p>
 <img align="right" src="https://github.com/vivekweb2013/vivekweb2013/raw/main/developer.gif" alt="Hola Coders" height="350" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
